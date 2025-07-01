@@ -7,4 +7,7 @@ class spark{
     {
         System.out.println("first method");
     }
+    public void notifyuser(){
+        System.out.println("hello user");
+    }
 };
